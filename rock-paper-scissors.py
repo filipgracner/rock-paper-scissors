@@ -2,14 +2,8 @@ import random
 
 
 def play_round():
-    computer_move = ""
-    random_index = random.randint(0, 2)
-    if random_index == 0:
-        computer_move = "r"
-    elif random_index == 1:
-        computer_move = "p"
-    elif random_index == 2:
-        computer_move = "s"
+    # Simplified computer move selection with random.choice
+    computer_move = random.choice(["r", "p", "s"])
 
     player_move = input("Enter (r)ock, (p)aper, or (s)cissors: ").lower()
     while player_move not in ["r", "p", "s"]:
