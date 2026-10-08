@@ -32,7 +32,7 @@ def play_round():
 
 
 # --------Main-------
-print("Welcome to Rock, Paper, Scissors!")
+print("=== Rock, Paper, Scissors! ===")
 
 keep_playing = True
 wins = 0
