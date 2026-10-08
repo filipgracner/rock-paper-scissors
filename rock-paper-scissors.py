@@ -56,4 +56,8 @@ while keep_playing:
 
     if continue_response == "n":
         print("Thanks for playing. Goodbye and have fun!")
+        
+        print(f"Final result: {wins} wins, "
+              f"{losses} losses, {ties} ties.")
+        
         keep_playing = False
