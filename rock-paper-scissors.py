@@ -55,5 +55,5 @@ while keep_playing:
         continue_response = input("Invalid input! Enter y/n: ").lower()
 
     if continue_response == "n":
-        print("Thanks for playing. Goodbye!")
+        print("Thanks for playing. Goodbye and have fun!")
         keep_playing = False
