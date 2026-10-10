@@ -30,3 +30,7 @@ Requires PRs.
 ## Author
 
 Filip Gračner
+
+## Development Flow
+
+I make changes on separate branches and review them via a pull request before merging them into the main branch.
