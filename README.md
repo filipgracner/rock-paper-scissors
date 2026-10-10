@@ -34,3 +34,9 @@ Filip Gračner
 ## Development Flow
 
 I make changes on separate branches and review them via a pull request before merging them into the main branch.
+
+## Instructions
+
+1. Run the program.
+2. Choose rock, paper, or scissors.
+3. Follow the instructions in the terminal.
