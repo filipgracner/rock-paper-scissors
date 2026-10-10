@@ -25,4 +25,4 @@ Run the following command in the terminal inside the project folder:
 python .\rock-paper-scissors.py
 ```
 
-PR required
+Requires PRs
