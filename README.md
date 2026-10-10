@@ -26,3 +26,7 @@ python .\rock-paper-scissors.py
 ```
 
 Requires PRs.
+
+## Author
+
+Filip Gračner
