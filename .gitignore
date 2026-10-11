@@ -1,1 +1,18 @@
-notes.txt 
+# Python cache files
+__pycache__/
+*.py[cod]
+
+
+# Virtual environment directories
+.venv/
+venv/
+
+# Environment variables and secrets
+.env
+.env.*
+!.env.example
+secrets.json
+credentials.txt
+
+# Local Notes
+notes.txt
