@@ -38,3 +38,7 @@ I make changes on separate branches and review them via a pull request before me
 ## Development Approach
 
 Changes should be small, frequently integrated, and automatically verified.
+
+## Security
+
+The project employs best practices for change and data management.
